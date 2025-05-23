@@ -10,5 +10,5 @@ Hi, my name is Isabella
 ## Featured Projects
 
 ## Links
-**GitHub Repository**: 
+**GitHub Repository**: https://github.com/esaiiisayy/I.M.-Final-Project
 **Live Site**: https://esaiiisayy.github.io/I.M.-Final-Project/
