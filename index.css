@@ -1,0 +1,23 @@
+body{
+  text-align:center;
+  font-family: "Garamond", serif;
+  background-color:#CFE1B9;
+  margin:0px;
+  color:#718355;
+  
+}
+
+h1{
+  font-size:40px;
+}
+
+div{
+  background-color:#E9F5DB;
+}
+
+.aboutMe{
+  border-radius:20px;
+  background-color:#97A97C;
+  color:#CFE1B9;
+  justify-content:center;
+}
