@@ -12,19 +12,16 @@ This final portfolio is a culmination of my learning and development throughout 
 
 ## Featured Projects
 
-### 1. **[Password Generator]**
+### 1. **Password Generator**
 Creates a password using random letters, numbers, and symbols
 
-### 2. **[Blackjack]**
-Sets up a game of blackjack that allows you to play by yourself
-
-### 3. **[Timer]**
+### 2. **Timer**
 Allows you to time anything you want
 
-### 4. **[Magic 8 Ball]**
+### 3. **Magic 8 Ball**
 Gives you an answer to all your yes or no questions
 
-### 5. **[To-do List]**
+### 4. **To-do List**
 Organize your day and plan ahead
 
 ## Links
