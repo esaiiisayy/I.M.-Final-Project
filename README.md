@@ -13,13 +13,13 @@ This final portfolio is a culmination of my learning and development throughout 
 
 ### 1. **[Password Generator]**
 
-### 1. **[Blackjack]**
+### 2. **[Blackjack]**
 
-### 1. **[Timer]**
+### 3. **[Timer]**
 
-### 1. **[Magic 8 Ball]**
+### 4. **[Magic 8 Ball]**
 
-### 1. **[To-do List]**
+### 5. **[To-do List]**
 
 
 ## Links
