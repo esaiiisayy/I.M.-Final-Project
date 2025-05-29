@@ -16,7 +16,7 @@ This final portfolio is a culmination of my learning and development throughout 
 Creates a password using random letters, numbers, and symbols
 
 ### 2. **[Blackjack]**
-Blackjack set up that allows you to play by yourself
+Sets up a game of blackjack that allows you to play by yourself
 
 ### 3. **[Timer]**
 Allows you to time anything you want
