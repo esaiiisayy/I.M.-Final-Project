@@ -8,7 +8,7 @@ This final portfolio is a culmination of my learning and development throughout 
 
 ## Portfolio Overview
 - An introduction to me and my approach as a developer
-- A dedicated section showcasing my projects, each with detailed descriptions
+- A dedicated section showcasing my projects, each with descriptions
 
 ## Featured Projects
 
