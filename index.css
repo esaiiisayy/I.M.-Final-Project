@@ -13,15 +13,26 @@ h1{
 
 div{
   background-color:#E9F5DB;
+  justify-content:center;
+  padding:20px;
+  
 }
 
 .aboutMe{
   font-size: 20px;
+  border-radius: 20px;
   background-color:#97A97C;
   color:#CFE1B9;
-  justify-content:center;
+  margin: auto;
+  width: 70%;
+  
 }
 
 .garimg{
   width:550px;
+  padding:20px;
+}
+
+p{
+  padding:20px;
 }
