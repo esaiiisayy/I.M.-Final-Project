@@ -19,10 +19,10 @@ div{
 }
 
 .aboutMe{
-  font-size: 20px;
+  font-size: 30px;
   border-radius: 20px;
   background-color:#97A97C;
-  color:#CFE1B9;
+  color:#E9F5DB;
   margin: auto;
   width: 70%;
   
@@ -34,5 +34,59 @@ div{
 }
 
 p{
-  padding:20px;
+  font-size:25px;
+  padding:10px;
+}
+
+.projects{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.pro1{
+  background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2NtMpJm0S0aPh3EYNKQiMv4ULEkfHtTpgz2eDs4dleKqADkQ6sl9sKPbAk2pVRwxO68&usqp=CAU);
+  border-radius:20px;
+  font-size:25px;
+  color:#E9F5DB;
+  width: 350px;
+}
+
+.pro2{
+  background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2NtMpJm0S0aPh3EYNKQiMv4ULEkfHtTpgz2eDs4dleKqADkQ6sl9sKPbAk2pVRwxO68&usqp=CAU);
+  border-radius:20px;
+  font-size:30px;
+  color:#E9F5DB;
+  width: 350px;
+}
+
+.pro3{
+  background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2NtMpJm0S0aPh3EYNKQiMv4ULEkfHtTpgz2eDs4dleKqADkQ6sl9sKPbAk2pVRwxO68&usqp=CAU);
+  border-radius:20px;
+  font-size:30px;
+  color:#E9F5DB;
+  width: 350px;
+}
+
+.pro4{
+  background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2NtMpJm0S0aPh3EYNKQiMv4ULEkfHtTpgz2eDs4dleKqADkQ6sl9sKPbAk2pVRwxO68&usqp=CAU);
+  border-radius:20px;
+  font-size:30px;
+  color:#E9F5DB;
+  width: 350px;
+}
+
+
+a{
+  color:#E9F5DB;
+  font-weight: bold;
+  font-size:30px;
+}
+
+a:hover{
+  background-color:#B5C99A;
+  color:#718355;
+}
+
+.pro{
+  font-size:60px;
 }
